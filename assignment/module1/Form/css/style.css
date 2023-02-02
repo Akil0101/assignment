@@ -1,0 +1,84 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: lightgray;
+}
+.form 
+{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    background-color: #9cbc2c;
+    border-radius: 15px;
+}
+
+#btn 
+{
+    width: 30%;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    margin-left: 35%;
+    background-color: rgba(50,0,0,0.4);
+    font-size: 25px;
+    color: white;
+    border-radius: 45px;
+}
+.form-group{
+
+    border: 2px solid white;
+    border-radius: 6px;
+    margin-top: 5px;
+     width: 80% ;
+     padding-top: 2px;
+     padding-bottom: 2px;
+     background-color: rgb(185 207 106);
+}
+.myclass{
+    width: 50%;
+    border-radius: 6px;
+    
+}
+.c1{
+ position: relative;
+    left: 123px;
+}
+.c2{
+ position: relative;
+    left: 123px;
+}
+.c3{
+ position: relative;
+    left: 115px;
+}
+
+.c4{
+ position: relative;
+    left: 105px;
+}
+
+.c5{
+ position: relative;
+    left: 100px;
+}
+
+.c6{
+ position: relative;
+    left: 108px;
+}
+
+.c7{
+ position: relative;
+    left: 65px;
+}
+
+.c8{
+ position: relative;
+    left: 65px;
+}
+.c9{
+ position: relative;
+    left: 61px;
+}
